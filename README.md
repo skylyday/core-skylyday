@@ -1,2 +1,2 @@
-# skylytoday
+# skylyday
 Social media project.
